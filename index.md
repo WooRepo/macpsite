@@ -3,12 +3,11 @@ title: "MACP. With the people, for the people."
 permalink: /
 layout: default
 ---
-# The Milk Anarcho-Communism Party. Help New Developers Flourish.
+# The Milk Anarcho-Communism Party. 
 
 
 
-| More support for you and your projects, and a brighter future for Dev Sanx.  |
-| --------|
+𝘔𝘰𝘳𝘦 𝘴𝘶𝘱𝘱𝘰𝘳𝘵 𝘧𝘰𝘳 𝘺𝘰𝘶 𝘢𝘯𝘥 𝘺𝘰𝘶𝘳 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴, 𝘢𝘯𝘥 𝘢 𝘣𝘳𝘪𝘨𝘩𝘵𝘦𝘳 𝘧𝘶𝘵𝘶𝘳𝘦 𝘧𝘰𝘳 𝘋𝘦𝘷 𝘚𝘢𝘯𝘹.
 
 
 

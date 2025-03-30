@@ -33,14 +33,15 @@ layout: default
 
 - woo5545
 
-#### Vice Leader:
+#### Vice Leaders:
 
-- juno.maybe 
-
+- juno.maybe
+- lnzpk
 
 #### Our MPs:
 - woo5545
-- juno.maybe 
+- juno.maybe
+- lnzpk
 
 
 ## Join our party on discord to get your name in media and on this site! (〃￣ω￣〃)ゞ
